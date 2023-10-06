@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music player</title>
+
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="./assets/favicon/apple-icon-57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="./assets/favicon/apple-icon-60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="./assets/favicon/apple-icon-72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="./assets/favicon/apple-icon-76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="./assets/favicon/apple-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="./assets/favicon/apple-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="./assets/favicon/apple-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="./assets/favicon/apple-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="./assets/favicon/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="./assets/favicon/android-icon-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="./assets/favicon/favicon-96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="./assets/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="./assets/favicon/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="./assets/favicon/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+      integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <!-- <link rel="stylesheet" href="giaodien.css"> -->
+  </head>
+  <body>
+    <div class="parent">
+      <div class="player">
+        <div class="dashboard">
+          <img
+            src="https://i.pinimg.com/550x/fa/b1/0b/fab10b90ad142006ab22938656ed798c.jpg"
+            alt=""
+            class="img-background"
+          />
+          <!-- Header -->
+          <header class="header">
+            <h4>Now playing:</h4>
+            <h2 class="line-clamp">String 57th & 9th</h2>
+          </header>
+
+          <!-- CD -->
+          <div class="cd">
+            <div
+              class="cd-thumb"
+              style="
+                background-image: url('https://i.pinimg.com/550x/fa/b1/0b/fab10b90ad142006ab22938656ed798c.jpg');
+              "
+            ></div>
+          </div>
+
+          <div class="progress-container">
+            <input
+              id="progress"
+              class="progress"
+              type="range"
+              value="0"
+              step="1"
+              min="0"
+              max="100"
+            />
+          </div>
+
+          <!-- Control -->
+          <div class="control">
+            <div class="btn btn-repeat">
+              <i class="fas fa-redo"></i>
+            </div>
+            <div class="btn btn-prev">
+              <i class="fas fa-step-backward"></i>
+            </div>
+            <div class="btn btn-toggle-play">
+              <i class="fas fa-pause icon-pause"></i>
+              <i class="fas fa-play icon-play"></i>
+            </div>
+            <div class="btn btn-next">
+              <i class="fas fa-step-forward"></i>
+            </div>
+            <div class="btn btn-random">
+              <i class="fas fa-random"></i>
+            </div>
+          </div>
+
+          <!-- List + Lyrics -->
+          <div class="options">
+            <div class="btn btn-lyrics">
+              <i class="fa-regular fa-file-audio"></i>
+            </div>
+            <div class="btn btn-list">
+              <i class="fa-solid fa-list"></i>
+            </div>
+          </div>
+
+          <audio id="audio" src=""></audio>
+        </div>
+      </div>
+
+      <div class="list-container">
+        <div class="list">
+          <div class="background-list">
+            <img src="./assets/image/IMG_1635.jpg" />
+          </div>
+          <div class="playlist">
+            <div class="song">
+              <div
+                class="thumb"
+                style="background-image: url(./assets/image/IMG_1635.jpg)"
+              ></div>
+              <div class="body">
+                <h3 class="title">Music name</h3>
+                <p class="author">Singer</p>
+              </div>
+              <div class="option">
+                <i class="fas fa-ellipsis-h"></i>
+              </div>
+            </div>
+          </div>
+
+          <div class="list-options options">
+            <div class="btn btn-home">
+              <i class="fas fa-home"></i>
+              <!-- home-->
+            </div>
+            <div class="btn btn-lyrics">
+              <i class="fa-regular fa-file-audio"></i>
+              <!-- lyrics -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lyrics">
+        <div class="background-lyrics">
+          <img src="./assets/image/IMG_1635.jpg" />
+        </div>
+        <div class="lyrics-item">
+          <p>Lyrics</p>
+        </div>
+        <div class="lyrics-options options">
+          <div class="btn btn-home">
+            <i class="fas fa-home"></i>
+          </div>
+          <div class="btn btn-list">
+            <i class="fa-solid fa-list"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
