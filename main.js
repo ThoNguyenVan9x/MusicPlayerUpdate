@@ -1196,6 +1196,7 @@ const app = {
           _this.loadCurrentSong();
           _this.render();
           audio.play();
+          cdThumbAnimate.play();
         }
 
         // Xử lý khi click vào song option
