@@ -48,7 +48,7 @@
   }
 
   .control {
-    margin-top: calc(var(--height-custom) / 15);
+    margin-top: calc(var(--height-custom) / 20);
   }
 
   .player-options,
