@@ -1,9 +1,9 @@
 :root {
-  --width-custom: calc(var(--height-custom) / 1.5);
+  /* --width-custom: calc(var(--height-custom) / 1.5);
   --height-custom: calc(95vh);
   --height-item: calc(var(--width-custom) / 5);
   --length-item-img: calc(var(--height-item) / 1.5);
-  --color-button: #e4c9a9;
+  --color-button: #e4c9a9; */
   /* var(--primary-color); cách dùng biến */
 }
 
@@ -57,7 +57,7 @@ body {
   /* padding: 0 18px; */
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   /* background-color: gray; */
 }
 
@@ -311,6 +311,7 @@ body {
   overflow: scroll;
 }
 
+.player-options,
 .lyrics-options,
 .list-options {
   width: 100%;

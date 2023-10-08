@@ -1,0 +1,59 @@
+/* @media screen and (min-width: 1024px) {
+  :root {
+    --width-custom: calc(var(--height-custom) / 1.5);
+    --height-custom: calc(100vh);
+    --height-item: calc(var(--width-custom) / 5);
+    --length-item-img: calc(var(--height-item) / 1.5);
+    --color-button: #e4c9a9;
+  }
+} */
+
+@media screen and (min-width: 576px) {
+  :root {
+    --width-custom: calc(var(--height-custom) / 1.5);
+    --height-custom: calc(100vh);
+    --height-item: calc(var(--width-custom) / 5);
+    --length-item-img: calc(var(--height-item) / 1.5);
+    --color-button: #e4c9a9;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  :root {
+    --width-custom: calc(100vw);
+    --height-custom: calc(100vh);
+    --height-item: calc(var(--width-custom) / 5);
+    --length-item-img: calc(var(--height-item) / 1.5);
+    --color-button: #e4c9a9;
+    /* var(--primary-color); cách dùng biến */
+  }
+
+  .header {
+    margin-top: calc(var(--height-custom) / 30);
+  }
+
+  .cd {
+    margin-top: calc(var(--height-custom) / 15);
+    height: calc(var(--height-custom) / 2.6);
+    overflow: hidden;
+  }
+
+  .cd-thumb {
+    width: calc(var(--height-custom) / 2.6);
+    height: calc(var(--height-custom) / 2.6);
+  }
+
+  .progress-container {
+    margin-top: calc(var(--height-custom) / 10);
+  }
+
+  .control {
+    margin-top: calc(var(--height-custom) / 15);
+  }
+
+  .player-options,
+  .lyrics-options,
+  .list-options {
+    bottom: calc(var(--height-custom) / 50);
+  }
+}
