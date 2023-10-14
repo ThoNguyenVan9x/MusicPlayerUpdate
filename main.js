@@ -311,7 +311,7 @@ const app = {
       Cá lội là cá ối ả nó bơi<br>
       `,
             singer: "Cao Tùng Anh",
-            path: "assets/music/ThuyenQuyen.mp3",
+            path: "https://docs.google.com/uc?id=1dBOwmPv4mlSuk0Eq7FOjGtSAXVvOsOH-",
             image: "assets/image/anh5.jpeg",
         },
         // {
@@ -750,7 +750,7 @@ const app = {
        <br>
       [F]Là vì em hạnh phúc khi [G]có anh bên cạnh em [Am] (4 lần)`,
             singer: "Trung Quân",
-            path: "assets/music/NgoiNhaHanhPhuc.mp3",
+            path: "https://docs.google.com/uc?id=1naV5rLYdIt6uzzIw7gU3HkM_pmweJYH8",
             image: "assets/image/anh0.jpg",
         },
         // {
@@ -1027,7 +1027,7 @@ const app = {
           Ở một thế giới còn rất xa<br>
           `,
             singer: "Quân AP - Mydra",
-            path: "assets/music/ThuCuoi-DapAnCuoiCung-AnhChuaThuongEmDenVayDau.mp3",
+            path: "https://docs.google.com/uc?id=1RTfF8zqRU5Udr37KtkVrzfLdgKC92G50",
             image: "assets/image/anh6.jpeg",
         },
         {
@@ -1069,7 +1069,7 @@ const app = {
       Cá lội là cá ối ả nó bơi<br>
       `,
             singer: "Trung Quân",
-            path: "assets/music/ThuyenQuyen.mp3",
+            path: "https://docs.google.com/uc?id=14jZMPh7N8iKXM6Y94D2YUQuMjOiwPwgT",
             image: "assets/image/anh5.jpeg",
         },
         {
@@ -1114,7 +1114,7 @@ const app = {
       Thời gian đó sẽ mãi luôn là những mảnh ký ức xưa đẹp nhất<br>
       Trên thế gian`,
             singer: "Trung Quân",
-            path: "assets/music/TinhDamSauMuaMitMu.mp3",
+            path: "https://docs.google.com/uc?id=1SEj2g9sX8c_LmNI12k51AovBVeuacPxn",
             image: "assets/image/anh6.jpeg",
         },
         {
@@ -1156,7 +1156,7 @@ const app = {
           (Do we work it out)<br>
     `,
             singer: "Ngọc Ánh Idol",
-            path: "assets/music/TinhVeNoiDau-NgocAnhIdol.mp3",
+            path: "https://docs.google.com/uc?id=1khmFh2qo2ifbo5D-3ihBWthPsBlhxWNk",
             image: "assets/image/anh5.jpeg",
         },
     ],
