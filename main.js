@@ -274,41 +274,33 @@ const app = {
         // },
         {
             name: "Gấu Ở Đâu Khi Gió Đông Về",
-            lyrics: `Xa xa bóng người thương<br>
-      Thấp thoáng trước thềm nhà đang đưa dâu<br>
-      Nơi đây phấn son áo màu<br>
-      Em sắp theo chồng bỏ lại bến sông kia chờ mong<br>
-      Khải lên khúc nhạc hoàng cầm buồn ngày mình biệt ly<br>
-      Cung oán cung sầu nặng lòng tiễn chân người ra đi<br>
-      Xác pháo vu quy bên thềm có chăng hạnh phúc êm đềm<br>
-      Đời người con gái đục trong mười hai bến nước long đong<br>
-      Dặm ngàn thiên lí tiễn người đi<br>
-      Mây nước u buồn ngày biệt ly<br>
-      Khóc cho duyên mình đoạn trường thương loan đò sang ngang<br>
-      Áo mới em cài màu hoa cưới<br>
-      Sánh bước bên người cùng duyên mới<br>
-      Nâng chén tiêu sầu khải một cung đàn từ biệt nhau<br>
-      Yêu nhau cởi áo cho nhau<br>
-      Về nhà mẹ hỏi qua cầu gió bay<br>
-      Từ nay hết duyên em trả áo<br>
-      Xem như hết tình mình đã trao<br>
-      Phận duyên ta lỡ cung thương đứt đoạn sầu đối gương loan<br>
-      Dặm ngàn thiên lý tiễn người đi<br>
-      Mây nước u buồn ngày biệt ly<br>
-      Khóc cho duyên mình đoạn trường thương loan đò sang ngang<br>
-      Áo mới em cài màu hoa cưới<br>
-      Sánh bước bên người cùng duyên mới<br>
-      Nâng chén tiêu sầu khải một cung đàn từ biệt nhau<br>
-      Dặm ngàn thiên lý tiễn người đi<br>
-      Mây nước u buồn ngày biệt ly<br>
-      Khóc cho duyên mình đoạn trường thương loan đò sang ngang<br>
-      Áo mới em cài màu hoa cưới<br>
-      Sánh bước bên người cùng duyên mới<br>
-      Nâng chén tiêu sầu khải một cung đàn từ biệt nhau<br>
-      Bướm lượn là bướm ối ả nó bay (ối ả nó bay)<br>
-      Bướm dậu là bướm ối ả nó bay (ối ả nó bay)<br>
-      Cá lặn là cá ối ả nó bơi<br>
-      Cá lội là cá ối ả nó bơi<br>
+            lyrics: `Người ta hạnh phúc tay trong tay
+            Mà sao mắt tôi lại lệ cay, mà sao tim tôi lại buồn thế này<br>
+            Tại sao? Bao lâu nay vui buồn ai hay<br>
+            Bao nhiêu tâm tư chẳng thể nào giãi bày<br>
+            Bao cố gắng chẳng thoát nổi được kiếp ép ây.<br>
+            <br>
+            Nhiều tôi ngắm tôi trong gương<br>
+            Khuôn mặt cũng có chút dễ thương<br>
+            Tính cách cũng đâu đến nỗi dị thường<br>
+            Mà sao? Ấm ức tôi lên hỏi tận trung ương<br>
+            Chua xót về hỏi lại xã phường<br>
+            Cuối cùng vẫn là forever alone<br>
+            <br>
+            Ông trời ơi vì sao thế ? chẳng lẽ nào như con lại ế<br>
+            Gấu ơ còn chưa có mà gió đông nay đã về<br>
+            Ngẫm thấy ôi sao ê chề<br>
+            Bạn bè người yêu đề huề<br>
+            Mà tôi sớm tối vẫn một mình đi về đơn côi<br>
+            <br>
+            Hay vì không đủ kinh tế<br>
+            Tình yêu không thể không chê<br>
+            Ôi không nếu mà như thế thì thêm bao mùa gió về<br>
+            Chắc tôi vẫn sẽ ê chề<br>
+            Ngồi ca bài ca ước thề?<br>
+            Where are you, baby?<br>
+            Where are you, baby?<br>
+            Where are you, baby?<br>
       `,
             singer: "Cao Tùng Anh",
             path: "https://docs.google.com/uc?id=1dBOwmPv4mlSuk0Eq7FOjGtSAXVvOsOH-",
