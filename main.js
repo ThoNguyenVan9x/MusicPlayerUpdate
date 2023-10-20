@@ -1366,7 +1366,7 @@ const app = {
                             "
                         ></div>
                         <div class="body">
-                            <h3 class="title">${song.name}</h3>
+                            <h3 class="title line-clamp">${song.name}</h3>
                             <p class="author">${song.singer}</p>
                         </div>
                         <div class="option">
