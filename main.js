@@ -304,7 +304,7 @@ const app = {
                     `,
             singer: "Cao Tùng Anh",
             path: "https://docs.google.com/uc?id=1dBOwmPv4mlSuk0Eq7FOjGtSAXVvOsOH-",
-            image: "assets/image/anh6.jpeg",
+            image: "assets/image/anh0.jpg",
         },
         {
             name: "151 Radio Mashup",
@@ -409,7 +409,7 @@ const app = {
             Anh tao chở [Em]đá/ anh tao sẻ chia/ anh tao không giữ cho riêng [Am] mình`,
             singer: "Cao Tùng Anh",
             path: "https://docs.google.com/uc?id=10-rHI-CY0rcasLk2oA8d9iJ6C2B7mG9K",
-            image: "assets/image/anh0.jpeg",
+            image: "assets/image/anh1.jpeg",
         },
         // {
         //   name: "Gió Đánh Đò Đưa",
@@ -848,7 +848,7 @@ const app = {
       [F]Là vì em hạnh phúc khi [G]có anh bên cạnh em [Am] (4 lần)`,
             singer: "Trung Quân",
             path: "https://docs.google.com/uc?id=1naV5rLYdIt6uzzIw7gU3HkM_pmweJYH8",
-            image: "assets/image/anh1.jpg",
+            image: "assets/image/anh10.jpeg",
         },
         // {
         //   name: "Người Đã Yêu Ai",
