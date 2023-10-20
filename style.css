@@ -110,6 +110,7 @@ body {
     color: rgb(255 224 172 / 50%);
     border-radius: 50%;
     background-size: cover;
+    overflow: hidden;
 }
 
 .progress-container {
