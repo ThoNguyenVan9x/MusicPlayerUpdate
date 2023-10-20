@@ -301,10 +301,115 @@ const app = {
             Where are you, baby?<br>
             Where are you, baby?<br>
             Where are you, baby?<br>
-      `,
+                    `,
             singer: "Cao Tùng Anh",
             path: "https://docs.google.com/uc?id=1dBOwmPv4mlSuk0Eq7FOjGtSAXVvOsOH-",
-            image: "assets/image/anh5.jpeg",
+            image: "assets/image/anh6.jpeg",
+        },
+        {
+            name: "151 Radio Mashup",
+            lyrics: `MIG: <Bad luck em yêu - demo><br>
+            Muốn anh va [Am]chạm<br>
+            Khi anh đang skrt trên con camry<br>
+            tài khoản  [G]netflix không thể xem gì<br>
+            Làm nhạc về em chắc được grammy<br>
+            Mặt anh đầy [F] mụn trên con MV<br>
+            Trên người sắc màu khi gặp em thì<br>
+            Đỏ xanh vàng [Em] tím của anh chầm chậm chuyển nâu đầm đậm và rồi đen xì<br>
+             <br>
+            J Cơ: <Blocked><br>
+            Tình [Am] mình phải dừng lại<br>
+            Vì phần còn lại là trở ngại<br>
+            Em đi [G] theo tình anh đôi vai mỏng manh đôi cánh<br>
+            Em bay tự do chân [F] trời<br>
+            Bao la gọi tên trong đời<br>
+            Trôi đi cơn mơ tương [Em] lai thế thôi<br>
+            Tô son đi em mau lên không mưa ướt  môi [Am] rồi<br>
+             <br>
+            Sử: <Blocked><br>
+            Đợi [Am]chờ cuộc đời làm tôi mệt nhoài<br>
+            Vì cuộc tình [G] này làm cho đời tôi thật dài<br>
+            Nhắc[F] chi tên người<br>
+            Đã quên nhau rồi<br>
+            Để  [Em]cho bình yên được đến với tôi…với tôi đi [Am] người<br>
+             <br>
+            Macchia: <M đấy - demo><br>
+            Đứng ở  [Am]đây mà nhìn ra ngoài kia mắt anh liếc ngang mọi người thật nhỏ bé<br>
+            Những thứ trong [G] tay anh vẫn đang có tiền bạc vật chất đây anh kể em nghe<br>
+            Âm nhạc [F] hay I don’t care<br>
+            Quan trọng là trăm ca (100k) share<br>
+            Làm nhạc [Em] không màng vì đam mê mà chỉ cần có tiền về<br>
+             <br>
+             <br>
+            Đôi mắt đang [Am]mờ đấy…<br>
+            (Đôi mắt đang mờ đấy/ đôi mắt đang mờ đi)<br>
+            đôi mắt anh đang [G] mờ<br>
+            (Tiền bạc vật chất làm mắt anh mờ đấy/ đôi mắt đang mờ đi<br>
+            )<br>
+            Cẩn thận đôi mắt anh [F] mờ đấy…<br>
+            (Làm nhạc không vì đam mê là mờ đấy/ đôi mắt đang mờ đi)<br>
+            đôi mắt anh đang [Em] mờ<br>
+             <br>
+            (Cẩn thận không đôi mắt anh đang mờ đấy/ đôi mắt mờ đi<br>
+            )<br>
+             <br>
+             <br>
+            GDucky: <Breakfast & TNĐLG><br>
+            please give me a [Am] beat when im making breakfast <br>
+            please give me a [G] beat when im making breakfast <br>
+            please give me a [F] beat when im making breakfast <br>
+            Baby please give me a [Em]beat when im making breakfast <br>
+             <br>
+             <br>
+            Này ratatouille [Am]chắc anh Trở thành linguini <br>
+            Anh đưa em lên sofa [G] Xem phim như ở CGV <br>
+            I’m finding out her [F] spot They call me the Shinichi <br>
+            Em ơi lên đây đu đưa [G] đi Từ Tây Ban Nha sang Tunisia<br>
+            Lênh đênh trên du [Am] thuyền mà anh thả đâu đây<br>
+            I'm screaming over [G] you vì em là quả dâu tây<br>
+            On a Dubai [F] trip, mua cho em thật nhiều vàng<br>
+            Baby please give me a [Em] beat để đêm nay anh được chiều nàng<br>
+             <br>
+            Vậy thì nhiều tiền để làm [Am] gì…yeah <br>
+            Vậy thì nhiều tiền để làm[G] gì…yeah <br>
+            Vậy thì nhiều tiền để làm [F] gì…yeah <br>
+            Vậy thì nhiều tiền để làm [Em] chi....bây giờ ..bây giờ<br>
+             <br>
+            Sử: <Wake up><br>
+            Và [Am] Đây mới là sự thật, không phải những gì từ trong sách vở <br>
+            Đừng tự [G]nhận mình cao siêu khi thực tế mày không biết cách thở<br>
+             [F] Nào là luật nhân quả, nào là luật hấp dẫn<br>
+             [Em]Cuộc đời mày sẽ tơi tả nếu mày ko thấm đc chữ Nhẫn<br>
+             <br>
+            J Cơ: <Vương & ClubRussia -demo><br>
+            Và [Am] gió vẫn sẽ ước muốn ngày dài trở lại<br>
+            Bởi vì tình [G] yêu không may ai đâu ai đã ngần ngại<br>
+            Gió [F] đưa mây ngang trời người đi ngang qua trong đời<br>
+            Ai [Em] đi qua chờ tôi đi với<br>
+             <br>
+            Tao nổ [Am] pháo đêm khuya ra toàn phường<br>
+            Ở nơi đặt biển báo phân chia 2 làn đường<br>
+            J Cơ on the [G] mic đừng vội đo độ sốc<br>
+            Phục hồi hư tổn – dầu gội cho bộ óc<br>
+            Sống với hip [F] hop là điều tao quý nhất<br>
+            Ôi thôi ko được nghiện giống như Mike Thúy mất<br>
+            Mic là công [Em] cụ trên sân khấu ta hóa thú đọc vài ba câu cũng tỏa ra khí chất<br>
+             <br>
+            Sử: <Tuần tra đêm><br>
+            [Am]Tao đi tuần tra đêm/ bọn tao đi tuần tra đêm<br>
+            Khi mà tất cả tắt [G] đèn và đi ngủ thì bọn tao lại đi làm ca thêm<br>
+            [F]Tao đi tuần tra đêm/ bọn tao đi tuần tra đêm<br>
+            Khi mà tất cả tắt[Em] đèn và đi ngủ thì 151 đi làm ca thêm<br>
+             <br>
+             <br>
+            MIG: <Ice - demo><br>
+            Anh tao chở [Am]đá/ trên con xe thùng/ phát nhạc cho mọi người nghe cùng<br>
+            Anh tao chở [G] đá/ ok lên đường/ cứ tưởng mình đang ở trên giường<br>
+            Anh tao chở [F]đá/ luôn luôn yên bình/ ngọc hoàng đưa anh lên thiên đình<br>
+            Anh tao chở [Em]đá/ anh tao sẻ chia/ anh tao không giữ cho riêng [Am] mình`,
+            singer: "Cao Tùng Anh",
+            path: "https://docs.google.com/uc?id=10-rHI-CY0rcasLk2oA8d9iJ6C2B7mG9K",
+            image: "assets/image/anh0.jpeg",
         },
         // {
         //   name: "Gió Đánh Đò Đưa",
@@ -743,7 +848,7 @@ const app = {
       [F]Là vì em hạnh phúc khi [G]có anh bên cạnh em [Am] (4 lần)`,
             singer: "Trung Quân",
             path: "https://docs.google.com/uc?id=1naV5rLYdIt6uzzIw7gU3HkM_pmweJYH8",
-            image: "assets/image/anh0.jpg",
+            image: "assets/image/anh1.jpg",
         },
         // {
         //   name: "Người Đã Yêu Ai",
@@ -1020,7 +1125,7 @@ const app = {
           `,
             singer: "Quân AP - Mydra",
             path: "https://docs.google.com/uc?id=1RTfF8zqRU5Udr37KtkVrzfLdgKC92G50",
-            image: "assets/image/anh6.jpeg",
+            image: "assets/image/anh2.jpeg",
         },
         {
             name: "Thuyền Quyên",
@@ -1062,7 +1167,7 @@ const app = {
       `,
             singer: "Trung Quân",
             path: "https://docs.google.com/uc?id=14jZMPh7N8iKXM6Y94D2YUQuMjOiwPwgT",
-            image: "assets/image/anh5.jpeg",
+            image: "assets/image/anh3.jpeg",
         },
         {
             name: "Tình Sâu Đậm, Mưa Mịt Mù",
@@ -1107,7 +1212,7 @@ const app = {
       Trên thế gian`,
             singer: "Trung Quân",
             path: "https://docs.google.com/uc?id=1SEj2g9sX8c_LmNI12k51AovBVeuacPxn",
-            image: "assets/image/anh6.jpeg",
+            image: "assets/image/anh4.jpeg",
         },
         {
             name: "Tình Về Nơi Đâu",
@@ -1150,6 +1255,97 @@ const app = {
             singer: "Ngọc Ánh Idol",
             path: "https://docs.google.com/uc?id=1khmFh2qo2ifbo5D-3ihBWthPsBlhxWNk",
             image: "assets/image/anh5.jpeg",
+        },
+        {
+            name: "Bạn đời",
+            lyrics: `[Karik]:<br>
+            Kiếp trước có lẽ hai ta yêu nhau mà chẳng thể thành vợ chồng<br>
+            Nghĩ thoáng lên, mai ra sao tụi mình cũng đều hài lòng<br>
+            Có thể hôm nay thương, có thể tương lai buông<br>
+            Có thể ta không giàu, miễn ở bên nhau vui không buồn<br>
+            <br>
+            Chớp mắt 20-30 chiều nao rồi tụi mình cũng về già<br>
+            Ai rồi sẽ phải trước sau theo một người cùng về nhà<br>
+            Bước tiếp hay quên đi, nghĩ lắm chi thêm suy<br>
+            Ta cứ như bây giờ lo âu xa xôi để làm gì<br>
+            <br>
+            Ta yêu là yêu vậy thôi.. không có khái niệm đúng và sai<br>
+            Mấy đứa hay nói lời khó nghe.. bên nhau ta bỏ ngoài tai<br>
+            We drawing over night.. không ai phải nghi ngờ ai<br>
+            Không quan tâm bao nhiêu lần sai<br>
+            Chỉ cần em còn thương là anh vẫn ở lại<br>
+            Đừng nói đến những thứ vốn quá lớn lao<br>
+            Đâu ai chắc ngày mai hai ta chẳng thể bỏ nhau<br>
+            Giữ tim không hoài nghi bình yên trong ta sẽ đủ lâu<br>
+            Cứ vô tư biết đâu ngày sau lại vui như tình đầu<br>
+            <br>
+            Kiếp trước có lẽ hai ta yêu nhau mà chẳng thể thành vợ chồng<br>
+            Nghĩ thoáng lên, mai ra sao tụi mình cũng đều hài lòng<br>
+            Có thể hôm nay thương, có thể tương lai buông<br>
+            Có thể ta không giàu, miễn ở bên nhau vui không buồn<br>
+            <br>
+            Chớp mắt 20-30 chiều nao rồi tụi mình cũng về già<br>
+            Ai rồi sẽ phải trước sau theo một người cùng về nhà<br>
+            Bước tiếp hay quên đi, nghĩ lắm chi thêm suy<br>
+            Ta cứ như bây giờ lo âu xa xôi để làm gì<br>
+            <br>
+            Gặp gỡ trong tâm thế người dưng, chọn ở bên nhau vì bình yên<br>
+            Quá khứ, hiện tại là tình nguyện.. tiếc là trên đời không gì là vĩnh viễn<br>
+            Vì lời hứa không thắng nổi thời gian, trừ sự cố gắng cả hai thì có thể<br>
+            Nhưng nếu phải đặt 2 từ "trách nhiệm" xuống, liệu lòng chung thuỷ có bị làm khó dễ?<br>
+            Bởi chúng ta cũng chỉ là người thường, may mắn gặp và trở thành người thương<br>
+            Nên anh chẳng mong gì xa xôi ngoài sự tử tế nếu lỡ 1 người buông<br>
+            Dù ở lại hay là lỡ thương ai, đừng dành nửa kia lòng thương hại<br>
+            Cả khi điều vẫn nghĩ là "suốt đời" hồi đáp lại rằng không có tương lai<br>
+            <br>
+            Khi 1 mai tụi mình nhạt nhòa, ngọt ngào theo sau chẳng được như bấy lâu<br>
+            Khó đến mấy cứ nói 1 lời thật lòng rồi buông dù chỉ là mấy câu<br>
+            Đừng lo cho anh sẽ thấy đau<br>
+            Cười lên dù không thể lấy nhau<br>
+            Cả 2 có rơi xuống đáy sâu, tương lai chẳng thấy đâu<br>
+            Vẫn vui như ngày đầu<br>
+            Hãy thắp sáng hết những ngày còn lại<br>
+            Nếu như thời gian bên nhau không còn dài<br>
+            Nếu đến ngày phải buông tay, chỉ xin đừng quên hôm nay<br>
+            Đã từng biết nhau trên cõi đời này..<br>
+            <br>
+            Kiếp trước có lẽ 2 ta yêu nhau mà chẳng thể thành vợ chồng<br>
+            Nghĩ thoáng lên mai ra sao tụi mình cũng đều hài lòng<br>
+            Có thể hôm nay thương, có thể tương lai buông<br>
+            Có thể ta không giàu, miễn ở bên nhau vui không buồn<br>
+            <br>
+            Chớp mắt 20-30 chiều nao rồi tụi mình cũng về già<br>
+            Ai rồi sẽ phải trước sau theo 1 người cùng về nhà<br>
+            Bước tiếp hay quên đi, nghĩ lắm chi thêm suy<br>
+            Ta cứ như bây giờ lo âu xa xôi để làm gì<br>
+            <br>
+            [GDucky]:<br>
+            Mỗi lần anh nghĩ về 2 từ bạn đời lại nở 1 nụ cười bất giác<br>
+            Bởi vì anh thấy 2 từ này khó hiểu hơn cả mấy chuyện đất cát<br>
+            Anh đã từng muốn được là rapper và trở thành 1 người rất khác<br>
+            Nhưng anh chưa từng nghĩ là một ngày anh sẽ sợ phải mất em nhiều hơn mất rap<br>
+            Bởi vì mẹ nói.. yêu có thể dễ, nhưng mà đâu dễ để con kiếm được bạn đời<br>
+            Chung sống bên nhau, sinh con, đẻ cái, trăm năm thì đâu có thể là chuyện tạm thời<br>
+            Anh bắt đầu lo, khi em bước tới và làm anh muốn rước về làm dâu cả đời<br>
+            Nhưng mà anh đúng hay anh sai trong chuyện đó thì chị "Tiên" bảo là thời gian mới biết câu trả lời<br>
+            Nên em ơi em.. em luôn rất yên bình, thật là xinh và thích thêu thùa<br>
+            Không như tôi.. luôn thô ráp bên ngoài và gặp ai cũng muốn trêu đùa<br>
+            Vậy là sao! 1 người gầy và 1 người cao..<br>
+            1 người quen buông lời cay đắng lại va vào ngay 1 người ngọt ngào<br>
+            Thế giới có thể đánh giá 2 đứa rất khác nhau, nhưng như vậy không đúng<br>
+            Bởi vì tôi chỉ muốn thấy em, sau khi gặp công chúng<br>
+            Có những lúc tôi như muốn phát điên, em không hề than phiền<br>
+            Nắm lấy cánh tay tôi đang run lên và trao tôi nụ cười ngoan hiền..<br>
+            That's why I love this girl.. can you see?<br>
+            That's why I love this girl.. can you see?<br>
+            Baby you love your man.. I can see!<br>
+            That we are meant to be.. meant to be<br>
+            <br>
+            Chớp mắt 20-30 chiều nao rồi tụi mình cũng về già<br>
+            Ai rồi sẽ phải trước sau theo 1 người cùng về nhà`,
+            singer: "Karik - GDucky",
+            path: "https://docs.google.com/uc?id=1uWrYeUCGrGnHpwk8rKYBMCD2tpkKvPiX",
+            image: "assets/image/anh6.jpeg",
         },
     ],
     setConfig: function (key, value) {
